@@ -365,7 +365,7 @@ nav{
 }
 
 
-#links_fylo{
+.links_fylo{
     text-decoration: none;
     color: white;
 }
@@ -674,7 +674,7 @@ nav{
             margin-top: 70px;
         }
 
-        #links_fylo:hover{
+        .links_fylo:hover{
             color: #00a4d6;
 
         }
